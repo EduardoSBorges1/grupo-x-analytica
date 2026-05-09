@@ -1,0 +1,90 @@
+Bairro,Zona
+Centro,Centro
+Lapa,Centro
+Cidade Nova,Centro
+Catumbi,Centro
+Estácio,Centro
+Gamboa,Centro
+Glória,Centro
+Santa Teresa,Centro
+Saúde,Centro
+Santo Cristo,Centro
+Caju,Centro
+Rio Comprido,Centro
+São Cristóvão,Centro
+Praça da Bandeira,Centro
+Mangueira,Centro
+Benfica,Centro
+Vasco da Gama,Centro
+Copacabana,Zona Sul
+Ipanema,Zona Sul
+Leblon,Zona Sul
+Botafogo,Zona Sul
+Flamengo,Zona Sul
+Catete,Zona Sul
+Laranjeiras,Zona Sul
+Cosme Velho,Zona Sul
+Humaitá,Zona Sul
+Urca,Zona Sul
+Lagoa,Zona Sul
+Jardim Botânico,Zona Sul
+Gávea,Zona Sul
+São Conrado,Zona Sul
+Vidigal,Zona Sul
+Rocinha,Zona Sul
+Tijuca,Zona Norte
+Méier,Zona Norte
+Madureira,Zona Norte
+Maracanã,Zona Norte
+Vila Isabel,Zona Norte
+Andaraí,Zona Norte
+Grajaú,Zona Norte
+Engenho Novo,Zona Norte
+Engenho de Dentro,Zona Norte
+Todos os Santos,Zona Norte
+Del Castilho,Zona Norte
+Inhaúma,Zona Norte
+Pilares,Zona Norte
+Abolição,Zona Norte
+Piedade,Zona Norte
+Quintino Bocaiúva,Zona Norte
+Cascadura,Zona Norte
+Campinho,Zona Norte
+Oswaldo Cruz,Zona Norte
+Bento Ribeiro,Zona Norte
+Rocha Miranda,Zona Norte
+Irajá,Zona Norte
+Vicente de Carvalho,Zona Norte
+Penha,Zona Norte
+Penha Circular,Zona Norte
+Olaria,Zona Norte
+Ramos,Zona Norte
+Bonsucesso,Zona Norte
+Manguinhos,Zona Norte
+Complexo do Alemão,Zona Norte
+Ilha do Governador,Zona Norte
+Barra da Tijuca,Zona Oeste
+Recreio dos Bandeirantes,Zona Oeste
+Jacarepaguá,Zona Oeste
+Freguesia,Zona Oeste
+Taquara,Zona Oeste
+Curicica,Zona Oeste
+Cidade de Deus,Zona Oeste
+Camorim,Zona Oeste
+Vargem Grande,Zona Oeste
+Vargem Pequena,Zona Oeste
+Campo Grande,Zona Oeste
+Bangu,Zona Oeste
+Realengo,Zona Oeste
+Santa Cruz,Zona Oeste
+Sepetiba,Zona Oeste
+Guaratiba,Zona Oeste
+Pedra de Guaratiba,Zona Oeste
+Cosmos,Zona Oeste
+Senador Camará,Zona Oeste
+Santíssimo,Zona Oeste
+Paciência,Zona Oeste
+Inhoaíba,Zona Oeste
+Deodoro,Zona Oeste
+Vila Militar,Zona Oeste
+Magalhães Bastos,Zona Oeste
